@@ -92,7 +92,7 @@ The complete documentation of this project, including detailed explanations and 
 
 ---
 
-##  Final Thoughts:
+##  Conclusion:
 
 Working on this project was a valuable experience. It not only improved my technical knowledge but also helped me become more responsible and aware while using digital platforms. These skills will definitely support me in my academic journey and future career in the tech field.
 
